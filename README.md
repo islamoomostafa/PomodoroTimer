@@ -29,3 +29,34 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 ## Getting Started
 
 1. Clone the repository:
+
+2. Open the `index.html` file in a web browser.
+
+## Usage
+
+1. Set your preferred Pomodoro and break durations.
+2. Click the "Start" button to initiate a Pomodoro session.
+3. Work on your task until the Pomodoro timer rings.
+4. Take a short break.
+5. After completing a set of Pomodoros, take a longer break.
+
+## Customization
+
+You can customize the Pomodoro Timer according to your preferences:
+
+- Modify the timer durations in the script.
+- Replace the notification sound files with your own.
+- Customize the visual design using CSS.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Pomodoro Timer, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your enhancements or fixes.
+4. Submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
