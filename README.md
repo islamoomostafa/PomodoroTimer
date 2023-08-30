@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-![Pomodoro Timer](https://github.com/islamoomostafa/PomodoroTimer/backgroung.png)
+![Pomodoro Timer](https://github.com/islamoomostafa/PomodoroTimer/blob/main/backgroung.png?)
 
 Pomodoro Timer is a simple and customizable timer application designed to help you boost your productivity using the Pomodoro Technique.
 
